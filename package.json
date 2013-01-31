@@ -20,7 +20,7 @@
   "dependencies": {
     "oauth": ">=0.8.4",
     "cookies": "0.1.x",
-    "keygrip": "~0.1.7"
+    "keygrip": "~0.2.2"
   },
   "engines": {
     "node": ">=0.4.0 < 0.7.0"
